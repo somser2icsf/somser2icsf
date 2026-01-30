@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Somser</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Somser SA</h1>
+<h3 align="center">Cyber Security Enthusiast | Cyber Security Analyses </h3>
 
 <p align="center">
   <img src="https://i.imgur.com/yourimage.jpg" width="300"/>
@@ -25,5 +25,6 @@
 - 🐧 Linux, Termux
 
 ---
-
-### 🖤 Thanks My All Friend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MRVIVEK-CODER/MRVIVEK-CODER/main/md7Oqrf.gif" width="500"/>
+</p>
