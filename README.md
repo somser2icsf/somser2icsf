@@ -100,7 +100,7 @@ Each repository includes:
 
 <hr/>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Team -c</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/100089055040798">
