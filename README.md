@@ -13,23 +13,6 @@ Cyber Security Enthusiast • Ethical Hacker • Security Analyst
 
 <hr/>
 
-<!-- GOOGLE SEARCH IDENTITY -->
-<h2 align="center">🔍 Google Search Identity</h2>
-
-<p align="center">
-  👉 <a href="https://www.google.com/search?q=who+is+Somser+SA" target="_blank">
-    <b>Search on Google: Who is Somser SA</b>
-  </a>
-</p>
-
-<p align="center">
-This link helps people find my digital identity on Google.
-</p>
-
-<hr/>
-
-<h2>👨‍💻 Who is Somser SA?</h2>
-
 <p>
 I am <b>Somser SA</b>, a passionate <b>Cyber Security Enthusiast & Analyst</b> from Bangladesh 🇧🇩.
 I focus on ethical hacking, cyber security analysis, and security tool development.
