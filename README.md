@@ -123,12 +123,5 @@ I do not support illegal, unethical, or unauthorized activities.
 <hr/>
 
 <p align="center">
-  <b>🔎 Try searching on Google:</b><br/>
-  <a href="https://www.google.com/search?q=who+is+Somser+SA">
-    who is Somser SA
-  </a>
-</p>
-
-<p align="center">
-  <i>— Somser SA</i>
+  <img src="https://raw.githubusercontent.com/MRVIVEK-CODER/MRVIVEK-CODER/main/md7Oqrf.gif" width="500"/>
 </p>
